@@ -1,7 +1,4 @@
 package Fachmodul_Datentypen;
-
-import javax.lang.model.util.ElementScanner7;
-
 /* Operatoren.java
    Uebung zu Operatoren in Java
    @author

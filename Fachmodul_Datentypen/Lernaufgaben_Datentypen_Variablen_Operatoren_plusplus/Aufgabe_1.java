@@ -26,5 +26,7 @@ public class Aufgabe_1 {
     System.out.println("Gesamtleistung: " + gesamtleistung);
     System.out.println("Gesamtstromstärke: " + gesamtstromstaerke);
     System.out.println("Anzahl der Stromkreise: " + anzahlStromkreise);
+
+    myScanner.close();
     }
 }
