@@ -9,6 +9,7 @@ package Fachmodul_Datentypen;
   *
   *
   * @version 1.0 from 05.01.2021
+  * @author Julian Weber
   */
 
 public class WeltDerZahlen {
